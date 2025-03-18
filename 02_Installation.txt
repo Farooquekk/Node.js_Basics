@@ -1,0 +1,8 @@
+1). Download and install Node.js from nodejs.org (Choose LTS version).
+ 
+2) Verify installation by running:
+
+    * node -v
+    * npm -v 
+
+--> NPM stands for Node Package Manager.    
