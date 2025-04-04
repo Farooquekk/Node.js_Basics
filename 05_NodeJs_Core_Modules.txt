@@ -1,7 +1,0 @@
-1). Node.js provides many built-in modules that help in handling files, system info, events, and more.
-
-    * fs (File System) Module
-    * path Module
-    * os Module
-    * events Module
-    * http Module
