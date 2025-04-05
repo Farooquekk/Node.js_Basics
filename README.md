@@ -1,67 +1,40 @@
-
-```markdown
 # Node.js_Basics
 
-Welcome to the **Node.js_Basics** repository! This project is a beginner-friendly introduction to Node.js, covering core concepts and modules through organized folders and hands-on examples.
-
-## Table of Contents
-
-1. [01_Prerquisites](./01_Prerequisites)  
-2. [02_Intro_And_Installation](./02_Intro_And_Installation)  
-3. [03_Basics](./03_Basics)  
-4. [04_Modules](./04_Modules)
+Welcome to the **Node.js_Basics** repository! This is a beginner-friendly guide to learning Node.js through organized folders and practical examples.
 
 ---
 
-## Folder Descriptions
+## Contents
 
 ### 01_Prerquisites
-Covers basic concepts and knowledge required before diving into Node.js, including JavaScript fundamentals.
+- Basic JavaScript concepts needed before starting Node.js.
 
 ### 02_Intro_And_Installation
-Explains what Node.js is, its use cases, and steps to install it on different platforms.
+- Introduction to Node.js
+- Use cases and features
+- Installation on different operating systems
 
 ### 03_Basics
-Introduces basic Node.js concepts, like how to create and run scripts using the Node.js runtime.
+- Running JavaScript with Node.js
+- Using the REPL
+- Understanding the Node.js runtime
 
 ### 04_Modules
-Explores the core Node.js modules:
-- **05_NodeJs_Core_...**: Overview of core modules
-- **06_File_Sys_Module.js**: File system operations
-- **07_Path_Module.js**: Working with file and directory paths
-- **08_OS_Module.js**: Fetching system-related information
-- **09_Events_Module.js**: Handling events in Node.js
-- **10_HTTP_Module.js**: Creating a simple HTTP server
-- **test_02.txt** & **test_02_copy.txt**: Sample files used in file system operations
+Learn about important built-in Node.js modules:
+
+- `05_NodeJs_Core_...js` – Overview of Node.js core modules
+- `06_File_Sys_Module.js` – File system operations (read, write, copy)
+- `07_Path_Module.js` – Handling file and directory paths
+- `08_OS_Module.js` – Getting system-related information
+- `09_Events_Module.js` – Creating and handling custom events
+- `10_HTTP_Module.js` – Building a simple HTTP server
+- `test_02.txt`, `test_02_copy.txt` – Sample files for file system operations
 
 ---
 
-## How to Run the Code
+## How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Node.js_Basics.git
-   cd Node.js_Basics
-   ```
-
-2. Navigate to the folder you want to explore.
-
-3. Run a script using Node.js:
-   ```bash
-   node your_script.js
-   ```
-
----
-
-## Author
-
-Created by **Farooquekk**
-
----
-
-## License
-
-This project is for educational purposes.
-```
-
-Let me know if you want to add usage examples, more module explanations, or installation instructions!
+1. Clone the repo:
+```bash
+git clone https://github.com/your-username/Node.js_Basics.git
+cd Node.js_Basics
