@@ -36,5 +36,5 @@ Learn about important built-in Node.js modules:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/Node.js_Basics.git
+git clone https://github.com/Farooque kk/Node.js_Basics.git
 cd Node.js_Basics
